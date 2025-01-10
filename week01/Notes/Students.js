@@ -1,0 +1,22 @@
+export const students = [
+    {
+      id: 1,
+      firstName: 'Ella',
+      lastName: 'Fitzgerald',
+    },
+    {
+      id: 2,
+      firstName: 'Nina',
+      lastName: 'Simone',
+    },
+    {
+      id: 3,
+      firstName: 'Diana',
+      lastName: 'Duff',
+    },
+    {
+      id: 4,
+      firstName: 'Prescott',
+      lastName: 'Delmslie',
+    },
+  ];
