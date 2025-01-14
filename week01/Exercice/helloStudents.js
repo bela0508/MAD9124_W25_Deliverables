@@ -14,8 +14,8 @@ console.log("Count of last names starting with D is " + countOfStudents);
 
 console.log("\n");
 
-const emailArr = students.map(firstName => {
-    return `${firstName}@algonquincollege.com`
+const emailArr = students.map(student => {
+    return `${student.firstName}@algonquincollege.com`
 })
 
 console.log(emailArr);
