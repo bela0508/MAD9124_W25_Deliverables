@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ella Fitzgerald",
+    "email": "ella.fitzgerald@example.com",
+    "phone": "(555) 123-4567"
+  },
+  {
+    "id": 2,
+    "name": "Nina Simone",
+    "email": "nina.simone@example.com",
+    "phone": "(555) 234-5678"
+  },
+  {
+    "id": 3,
+    "name": "Diana Duff",
+    "email": "diana.duff@example.com",
+    "phone": "(555) 345-6789"
+  },
+  {
+    "id": 4,
+    "name": "Prescott Delmslie",
+    "email": "prescott.delmslie@example.com",
+    "phone": "(555) 456-7890"
+  },
+  {
+    "id": 5,
+    "name": "Maya Angelou",
+    "email": "maya.angelou@example.com",
+    "phone": "(555) 567-8901"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Vaughan",
+    "email": "sarah.vaughan@example.com",
+    "phone": "(555) 678-9012"
+  },
+  {
+    "id": 7,
+    "name": "Billie Holiday",
+    "email": "billie.holiday@example.com",
+    "phone": "(555) 789-0123"
+  },
+  {
+    "id": 8,
+    "name": "Aretha Franklin",
+    "email": "aretha.franklin@example.com",
+    "phone": "(555) 890-1234"
+  },
+  {
+    "id": 9,
+    "name": "Janis Joplin",
+    "email": "janis.joplin@example.com",
+    "phone": "(555) 901-2345"
+  },
+  {
+    "id": 10,
+    "name": "Bessie Smith",
+    "email": "bessie.smith@example.com",
+    "phone": "(555) 012-3456"
+  },
+  {
+    "id": 11,
+    "name": "Etta James",
+    "email": "etta.james@example.com",
+    "phone": "(555) 123-4568"
+  },
+  {
+    "id": 12,
+    "name": "Lena Horne",
+    "email": "lena.horne@example.com",
+    "phone": "(555) 234-5679"
+  },
+  {
+    "id": 13,
+    "name": "Carmen McRae",
+    "email": "carmen.mcrae@example.com",
+    "phone": "(555) 345-6780"
+  },
+  {
+    "id": 14,
+    "name": "Dinah Washington",
+    "email": "dinah.washington@example.com",
+    "phone": "(555) 456-7891"
+  },
+  {
+    "id": 15,
+    "name": "Shirley Bassey",
+    "email": "shirley.bassey@example.com",
+    "phone": "(555) 567-8902"
+  }
+]
